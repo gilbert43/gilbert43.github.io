@@ -1,2 +1,5 @@
 # gilbert43.github.io
-This portfolio is just my resume
+This is my portfolio
+DEMO 
+http://gilbert43.github.io
+
