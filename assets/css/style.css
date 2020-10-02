@@ -319,7 +319,12 @@ img{
 
 
 
-
+.google{
+	justify-content: center;
+	padding: 10px 10%;
+	text-align: center;
+	border-radius: 50%;
+}
 
 
 
