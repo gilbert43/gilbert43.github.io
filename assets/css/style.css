@@ -133,6 +133,13 @@ img{
 	background-color: #fff;
 	box-shadow: 0 1px 4px rgba(146,161,176,.15);
 }
+.num{
+	align-items: center;
+	font-size: var(--h2-font-size);
+	color: var(--first-color);
+	text-align: center;
+	
+}
 .nav{
 	height: var(--header-height);
 	display: flex;
